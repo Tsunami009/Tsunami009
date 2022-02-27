@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tsunami009
 - 👀 I’m interested in ...programming and web development
-- 🌱 I’m currently learning ... front end web development
+
 - 💞️ I’m looking to collaborate on ...jobs involving my skill set
 - 📫 How to reach me ...nicholasdapper9@gmail.com//waterbuddiesworkspace.slack.com
 
